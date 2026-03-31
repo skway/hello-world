@@ -1,6 +1,4 @@
-# Wang He
-
-<div align="right">
+<div align="left">
   <a href="#-english">English</a> | <a href="#-中文">中文</a>
 </div>
 
