@@ -50,8 +50,8 @@ I am a senior **Audio/Video Backend Engineer** based in Hangzhou. With a solid b
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skway&show_icons=true&theme=transparent&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skway&layout=compact&theme=transparent&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=he-wang-io&show_icons=true&theme=transparent&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he-wang-io&layout=compact&theme=transparent&hide=html,css" />
 </p>
 
 ---
